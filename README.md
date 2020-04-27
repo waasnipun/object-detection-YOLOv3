@@ -41,7 +41,7 @@ python3 demo.py
 ## Results
 
 <img width="400" height="350" src="/images/res/person.jpg"/><img width="400" height="350" src="/images/res/dog.jpg"/>
-<img width="400" height="350" src="/images/res/rd2-2.png"/><img width="400" height="350" src="/images/res/giraffe.jpg"/>
+<img width="400" height="350" src="/images/res/family.jpg"/><img width="400" height="350" src="/images/res/kids.jpg"/>
 
 ## Original Work
 
