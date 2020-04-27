@@ -49,6 +49,7 @@ python3 demo.py
  
 ## Reference
 
+- [YOLOv3 Paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - [official YOLO website](https://pjreddie.com/darknet/yolo/)	
 - [allanzelener](https://github.com/allanzelener/YAD2K)
 
