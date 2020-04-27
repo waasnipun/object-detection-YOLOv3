@@ -13,12 +13,13 @@ Keras(Tensorflow v2 backend) implementation of yolo v3 objects detection.
 - Numpy
 
 ### Installation
+```
+install python3 and opencv
+```
+
 ```bash
 git clone https://github.com/waasnipun/object-detection-YOLOv3.git
 cd object-detection-YOLOv3
-
-install python3
-install opencv
 
 # using pip3
 pip3 install numpy 
