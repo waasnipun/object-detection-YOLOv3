@@ -28,7 +28,7 @@ pip3 install keras
 
 - Download official [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) and put it on top folder of the project.
 
-- Run the follow command to convert darknet weight file to keras .h5 file. The `yad2k.py` was modified from [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K) to supportfor v3.
+- Run the follow command to convert darknet weight file to keras .h5 file. The `yad2k.py` was modified from [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K) to support for v3.
 ```
 python3 yad2k.py cfg/yolo.cfg yolov3.weights
 ```
@@ -40,8 +40,8 @@ python3 demo.py
 
 ## Results
 
-<img width="400" height="350" src="/images/res/Boy-with-Dog.jpg"/><img width="400" height="350" src="/images/res/dog.jpg"/>
-<img width="400" height="350" src="/images/res/rd2-2.jpg"/><img width="400" height="350" src="/images/res/giraffe.jpg"/>
+<img width="400" height="350" src="/images/res/person.jpg"/><img width="400" height="350" src="/images/res/dog.jpg"/>
+<img width="400" height="350" src="/images/res/rd2-2.png"/><img width="400" height="350" src="/images/res/giraffe.jpg"/>
 
 ## Original Work
 
