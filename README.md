@@ -29,14 +29,14 @@ pip3 install keras
 
 ## Quick start
 
-- Download official [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) and put it on top folder of the project.
+- Download official [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) and put it on the top folder of the project.
 
-- Run the follow command to convert darknet weight file to keras .h5 file. The `yad2k.py` was modified from [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K) to support for v3.
+- Run the following command to convert darknet weight file to keras .h5 file. The `yad2k.py` was modified from [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K) to support for v3.
 ```
 python3 yad2k.py cfg/yolo.cfg yolov3.weights
 ```
 
-- run follow command to show the demo. The result can be found in `images\res\` folder and `videos\res\`.
+- run the following command to show the demo. The result can be found in `images\res\` folder and `videos\res\`.
 ```
 python3 demo.py
 ```
