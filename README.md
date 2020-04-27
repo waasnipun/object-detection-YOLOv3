@@ -2,6 +2,9 @@
 
 Keras(Tensorflow v2 backend) implementation of yolo v3 objects detection. 
 
+![Alt Text](https://github.com/waasnipun/object-detection-YOLOv3/blob/master/Resources/test1.gif)
+![Alt Text](https://github.com/waasnipun/object-detection-YOLOv3/blob/master/Resources/test2.gif)
+
 ## Requirement
 - OpenCV 4.2.0
 - Python 3.8.2  
